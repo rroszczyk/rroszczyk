@@ -1,5 +1,9 @@
 ### Hello, I am Radoslaw Roszczyk 👋
 
+
+Scientist 🔸 Experienced programmer 🔸 Speaker and trainer 🔸 Lekturer 🔸 Python 🔸 Microservices
+
+
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rroszczyk" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rroszczyk" />
