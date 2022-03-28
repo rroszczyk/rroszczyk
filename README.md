@@ -1,8 +1,10 @@
 ### Hello, I am Radoslaw Roszczyk 👋
 
-[![Radoslaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=rroszczyk)](https://github.com/anuraghazra/github-readme-stats)
-[![Radoslaw's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rroszczyk)](https://git.io/streak-stats)
-
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rroszczyk" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rroszczyk" />
+</p>
+  
 <!--
 **rroszczyk/rroszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
