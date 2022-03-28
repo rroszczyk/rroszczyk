@@ -1,7 +1,7 @@
 ### Hello, I am Radoslaw Roszczyk 👋
 
 
-Scientist 🔸 Experienced programmer 🔸 Speaker and trainer 🔸 Lekturer 🔸 Python 🔸 Microservices
+Scientist 🔸 Experienced programmer 🔸 Speaker and trainer 🔸 Lekturer 🔸 Python, Java, C# 🔸 Microservices 🔸  Webinars and IT trainings
 
 
 <p align="center">
