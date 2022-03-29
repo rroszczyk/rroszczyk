@@ -1,4 +1,4 @@
-### Hello, I am Radoslaw Roszczyk 👋
+<!-- ### Hello, I am Radoslaw Roszczyk 👋 -->
 <p align="center">
 Scientist 🔸 Experienced programmer 🔸 Speaker and trainer 🔸 Lekturer 🔸 Python, Java, C# 🔸 Webinars and IT trainings
 </p>
