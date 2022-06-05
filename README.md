@@ -1,6 +1,6 @@
 <!-- ### Hello, I am Radoslaw Roszczyk 👋 -->
 <p align="center">
-Scientist 🔸 Experienced programmer 🔸 Speaker and trainer 🔸 Lekturer 🔸 Python, Java, C, C# 🔸 Webinars and IT trainings
+Scientist 🔸 Experienced programmer 🔸 Speaker and trainer 🔸 Lekturer 🔸 Python, C#, C, Java 🔸 Webinars and IT trainings
 </p>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rroszczyk" />
